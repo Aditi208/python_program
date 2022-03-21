@@ -38,4 +38,5 @@ if(x!="image_id_input"):
     modifying_launch_temp_version()
     # ---- updating auto scaling group ----
     updating_auto_scaling_group()
+    
 
